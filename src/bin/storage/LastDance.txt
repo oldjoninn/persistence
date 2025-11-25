@@ -1,0 +1,13 @@
+Last Dance,Sakuzyo,2015,41:42
+1,RePrologue,3:23,Sakuzyo
+2,First Dance,3:13,Sakuzyo
+3,Sabbat,3:11,Sakuzyo
+4,ShadyShady,4:07,Sakuzyo
+5,Frontier,3:15,Sakuzyo
+6,Harpyia,2:27,Sakuzyo
+7,Stoicism,3:24,Sakuzyo
+8,Transportation,3:33,Sakuzyo
+9,Fafnir,3:52,Sakuzyo
+10,Nein,3:11,Sakuzyo
+11,Last Dance,4:22,Sakuzyo
+12,Endrole,3:46,Sakuzyo
